@@ -186,6 +186,8 @@ ___
 
 La table des compatibilité en 2021 montre que le support devient majeur sur l'ensemble des clients.
 
+[Compatibility](https://kangax.github.io/compat-table/es6/)
+
 ![image](./resources/compatibility.png)
 
 Malgrès cette compabilité, afin de les palier et d'obternir une compatibilité optimale sur les dernières versions, il est courant de transpiller le code.
