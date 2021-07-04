@@ -78,7 +78,6 @@ Les itérateurs personnalisés sont un outil utile mais leur création peut s'av
 
 Un générateur est un type de fonction spécial qui fonctionne comme une fabrique (factory) d'itérateurs. Une fonction devient un générateur lorsqu'elle contient une ou plusieurs expressions yield et qu'elle utilise la syntaxe function*.
 
-
 ### 🏷️ **Création**
 
 Pour pouvoir bénéficier de cette syntaxe il faut utiliser un plugin complémentaire.
