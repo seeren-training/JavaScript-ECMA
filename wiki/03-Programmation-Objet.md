@@ -24,7 +24,7 @@ Une classe se déclare avec le mot `class`.
 class MyClass { }
 ```
 
-### 🏷️ **Import/export**
+### 🏷️ **Modularisation**
 
 L'import/export est utile pour utiliser un membre importé depuis un autre fichier ou il est exporté.
 
