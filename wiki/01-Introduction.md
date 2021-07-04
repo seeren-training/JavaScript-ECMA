@@ -186,7 +186,7 @@ ___
 
 La table des compatibilité en 2021 montre que le support devient majeur sur l'ensemble des clients.
 
-[Compatibility](https://kangax.github.io/compat-table/es6/)
+🔗 [Compatibility](https://kangax.github.io/compat-table/es6/)
 
 ![image](./resources/compatibility.png)
 

@@ -111,13 +111,13 @@ Les deux approches se différencie par le choix du package maanager.
 
 `Bower` était longtemps considéré comme le package manager côté front.
 
-[Bower](https://bower.io/)
+🔗 [Bower](https://bower.io/)
 
 ### 🏷️ **Back**
 
 Sur node, le package manager est `npm`. Il ne concerne pas que les packages back et proposer de résoudre les dépendances des dépendances en les factorisants.
 
-![npm](https://www.npmjs.com/)
+🔗 [Npm](https://www.npmjs.com/)
 
 ___
 

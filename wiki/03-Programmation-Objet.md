@@ -367,7 +367,7 @@ set.delete(6);
 
 De nombreuses méthodes sont disponibles, proche du prototype de Array.
 
-[Set](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Set#propri%C3%A9t%C3%A9s)
+🔗 [Set](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Set#propri%C3%A9t%C3%A9s)
 
 ___
 
@@ -403,4 +403,4 @@ map.get("foo");
 
 De nombreuses méthodes sont disponibles, proche du prototype de Array.
 
-[Set](https://developer.mozilla.org/fr/docs/orphaned/Web/JavaScript/Reference/Global_Objects/Map#)
+🔗 [Get](https://developer.mozilla.org/fr/docs/orphaned/Web/JavaScript/Reference/Global_Objects/Map#)
