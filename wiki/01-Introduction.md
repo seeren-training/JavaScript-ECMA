@@ -10,7 +10,7 @@ ___
 
 ## 📑 Rappel
 
-![image](./resources/js.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/js.jpg)
 
 JavaScript est un langage objet à prototypage. Les constructeurs sont invoquables et instanciables avec un contexte d'exécution variant. Les variables appartiennent context global et plusieurs règles syntaxiques propres au language sont à connaitre.
 
@@ -146,7 +146,7 @@ ___
 
 ## 📑 Synthèse
 
-![image](./resources/es6.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/es6.jpg)
 
 L'année 2015 avec la version es6 puis les autres offrent des sucres syntaxiques bousculants les pratiques.
 
@@ -188,7 +188,7 @@ La table des compatibilité en 2021 montre que le support devient majeur sur l'e
 
 🔗 [Compatibility](https://kangax.github.io/compat-table/es6/)
 
-![image](./resources/compatibility.png)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/compatibility.png)
 
 Malgrès cette compabilité, afin de les palier et d'obternir une compatibilité optimale sur les dernières versions, il est courant de transpiller le code.
 
@@ -202,41 +202,41 @@ Observons l'écosystème des outils de développement et d'intégration.
 
 Visual Studio Code
 
-![image](./resources/vscode.png)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/vscode.png)
 
 Web Storm
 
-![image](./resources/webstorm.png)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/webstorm.png)
 
 ### 🏷️ **Task runner**
 
 Gulp
 
-![image](./resources/gulp.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/gulp.jpg)
 
 Grunt
 
-![image](./resources/grunt.png)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/grunt.png)
 
 ### 🏷️ **Module Bundler**
 
 Rollup
 
-![image](./resources/rollup.png)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/rollup.png)
 
 Webpack
 
-![image](./resources/webpack.png)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/webpack.png)
 
 ### 🏷️ **Intégration**
 
 Circle
 
-![image](./resources/circle.png)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/circle.png)
 
 Travis
 
-![image](./resources/travis.png)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/travis.png)
 
 ___
 
@@ -246,12 +246,12 @@ Afin de profiter d'un support de compatibilité et d'optimiser son code, il est 
 
 Typescript
 
-![image](./resources/ts.png)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/ts.png)
 
 Babel
 
-![image](./resources/babel.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/babel.jpg)
 
 Cofee Script
 
-![image](./resources/cofee.png)
+![image](https://raw.githubusercontent.com/seeren-training/JavaScript-ECMA/master/wiki/resources/cofee.png)
