@@ -49,7 +49,7 @@ maFonctionAsynchrone(url)
   })
 .finally(() => {
   
-  })
+})
 ```
 
 Il est possible de chainer les promesses si un callback renvoie une promesse.
