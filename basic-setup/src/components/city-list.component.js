@@ -1,4 +1,3 @@
-import 'material-design-lite';
 
 import { CityListService } from '../services/cityList.service';
 
@@ -58,7 +57,6 @@ export class CityListComponent {
         .onclick = () => this.delete(city));
       this.#tag.querySelector('input')
         .onkeypress = (e) => !(e.code === 'Enter' && this.add(e.target.value));
-      componentHandler.upgradeDom();
     }
 
 }

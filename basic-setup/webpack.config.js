@@ -7,7 +7,7 @@ module.exports = {
     './src/app.scss',
   ],
   output: {
-    filename: 'weather.js',
+    filename: 'app.js',
     path: `${__dirname}/dist`,
   },
   module: {
@@ -29,7 +29,10 @@ module.exports = {
       {
         test: /\.(jpg|png|woff|woff2|eot|ttf|svg)$/,
         loader: 'file-loader',
-        
+      },
+      {
+        test: /\.html$/,
+        loader: 'raw-loader',
       }
     ],
   },
@@ -38,10 +41,14 @@ module.exports = {
         template: './index.html'
     }),
     new MiniCssExtractPlugin({
-      filename: "weather.css"
+      filename: "app.css"
     })
   ],
   devServer: {
     contentBase: './',
+    https: true,
+    host: 'localhost',
+    port: 8080,
+    historyApiFallback: true
   },
 };
